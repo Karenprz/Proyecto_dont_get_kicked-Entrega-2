@@ -9,11 +9,11 @@ Entrega 2 de Introducción a la Inteligencia Artificial
 
 ## Dataset
 Los datos del proyecto actual provienen de una competición de Kaggle titulada [Don't get kicked](https://www.kaggle.com/competitions/DontGetKicked/overview) y se puede acceder a ellos ejecutando los siguientes comandos desde cualquier Notebook:
----
-url_dontgetkicked = 'https://raw.githubusercontent.com/SantiRestrepoOlarte/Inteligencia_Artificial/main/training.csv'
 
-df_kick = pd.read_csv(url_dontgetkicked)
+!!url_dontgetkicked = 'https://raw.githubusercontent.com/SantiRestrepoOlarte/Inteligencia_Artificial/main/training.csv'
 
----
+!!df_kick = pd.read_csv(url_dontgetkicked)
+
+
 # Video de la entrega
  [Video Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)
