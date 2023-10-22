@@ -15,4 +15,4 @@ url_dontgetkicked = 'https://raw.githubusercontent.com/SantiRestrepoOlarte/Intel
 df_kick = pd.read_csv(url_dontgetkicked)
 
 # Vídeo de la entrega
- [Vídeo Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)https://www.youtube.com/watch?v=hI1qfn-OvdA)
+ [Vídeo Entrega 2](https://www.youtube.com/watch?v=hI1qfn-OvdA)
